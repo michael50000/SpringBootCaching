@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-web-application-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SAM
+Implementation-Vendor-Id: com.Clover.springboot
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-web-application-example
+Created-By: Maven Integration for Eclipse
+
